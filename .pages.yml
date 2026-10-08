@@ -19,8 +19,16 @@ content:
         type: "string"
         required: true
 
-      - name: "download_url"
-        label: "Download Link"
+      - name: "download_url1"
+        label: "Download Link Ubuntu"
+        type: "string"
+        
+      - name: "download_url2"
+        label: "Download Link MacOS"
+        type: "string"
+     
+      - name: "download_url3"
+        label: "Download Link Windows"
         type: "string"
 
       - name: "description"
