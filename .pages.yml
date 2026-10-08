@@ -38,3 +38,7 @@ content:
       - name: "image"
         label: "Project Image"
         type: "image"
+        
+      - name: "repoLink"
+        label: "github repo"
+        type: "string"
